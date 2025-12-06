@@ -9,6 +9,8 @@ A "Premium" experience translation tool designed to bridge the gap between **Pro
 **Recommended: Use Conda (Python 3.10+)**
 
 ```bash
+# change directory to ai-translator
+cd ai-translator
 # Create and activate new environment
 conda create -n ai-translator python=3.10 -y
 conda activate ai-translator
